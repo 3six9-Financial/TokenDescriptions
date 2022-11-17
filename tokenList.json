@@ -14,7 +14,9 @@
       "name": "3xcalibur Ecosystem Token",
       "symbol": "XCAL",
       "decimals": 18,
-      "address": "0xaa7bD1B6d7FD6bcF1868B327EE5bDd8349581882"
+      "address": "0xaa7bD1B6d7FD6bcF1868B327EE5bDd8349581882",
+      "chainId": 42161,
+      "logoURI": ""
     },
     {
       "name": "SHIELD",
