@@ -23,7 +23,8 @@
       "symbol": "SHIELD",
       "decimals": 18,
       "chainId": 42161,
-      "address": "0x7266b0F8c21E01d35852d9bc0F92dE34214FF42b"
+      "address": "0x7266b0F8c21E01d35852d9bc0F92dE34214FF42b",
+      "logoURI": ""
     },
     {
       "name": "Ether",
