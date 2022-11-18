@@ -2,8 +2,8 @@
 
 If you're a protocol and you need to add your token and its description to 3xcalibur, fork this repo and update as follows:
 
-- [Token Entry](token-entry)
-- [Token Description](token-description)
+- [Token Entry](#token-entry)
+- [Token Description](#token-description)
 
 ## Token Entry
 
