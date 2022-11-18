@@ -1,13 +1,13 @@
 {
   "name": "XCAL Menu",
-  "timestamp": "2022-01-18T15:09:52.435Z",
+  "timestamp": "2022-11-18T21:00:00.000Z",
   "version": {
-    "major": 22,
-    "minor": 4,
-    "patch": 4
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "logoURI": "https://app.3xcalibur.com/images/XCAL.png",
   "keywords": ["xcalibur", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "decimals": 18,
       "address": "0xaa7bD1B6d7FD6bcF1868B327EE5bDd8349581882",
       "chainId": 42161,
-      "logoURI": ""
+      "logoURI": "",
     },
     {
       "name": "SHIELD",
