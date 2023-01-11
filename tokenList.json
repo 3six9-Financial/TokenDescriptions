@@ -16,7 +16,7 @@
       "decimals": 18,
       "address": "0xaa7bD1B6d7FD6bcF1868B327EE5bDd8349581882",
       "chainId": 42161,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "SHIELD",
@@ -377,6 +377,38 @@
       "address": "0x9D28Cb7C89E83C79f2b1BffBa3c4c54C670f32CB",
       "chainId": 5,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/gmx.jpg"
+    },
+    {
+      "name": "Wrapped Liquid Staked Ether",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+      "chainId": 42161,
+      "logoURI": "/tokens/wstETH.png"
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+      "chainId": 42161,
+      "logoURI": "/tokens/MIM.png"
+    },
+    {
+      "name": "Sperax USD",
+      "symbol": "USDs",
+      "decimals": 18,
+      "address": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
+      "chainId": 42161,
+      "logoURI": "/tokens/USDs.png"
+    },
+    {
+      "name": "Liquity USD",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+      "chainId": 42161,
+      "logoURI": "/tokens/LUSD.png"
     }
   ]
 }
